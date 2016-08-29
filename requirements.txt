@@ -1,1 +1,2 @@
-jinja2==2.9
+jinja2==2.8
+python==2.7
